@@ -4,5 +4,20 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="E:/dev/drivers/mongo-2.10.1.jar"/>
 	<classpathentry kind="lib" path="src/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/dev/drivers/mail.jar"/>
+	<classpathentry kind="lib" path="E:/dev/drivers/twilio-java-sdk-3.4.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/dev/drivers/google-voice-java-1.14-java6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baipc/Downloads/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baipc/Downloads/jaxen-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baipc/Downloads/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baipc/Downloads/jtidy.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/unirest-java-1.3.3.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/fluent-hc-4.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/httpclient-cache-4.3.2.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/backups/downloads/http apis/httpcomponents-client-4.3.2/lib/httpmime-4.3.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
